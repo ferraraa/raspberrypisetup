@@ -1,0 +1,10 @@
+libntirpc-dev
+smbclient
+gedit
+libglib2.0-dev
+libc-bin
+glibc-source
+libpthread-stubs0-dev
+libi2c-dev
+i2c-tools
+build-essential
