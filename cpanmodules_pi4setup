@@ -1,0 +1,26 @@
+ExtUtils::PkgConfig
+Log::Log4perl
+Data::Dumper
+Device::SMBus
+Device::I2C
+RPi::PIGPIO
+Device::WebIO::RaspberryPi
+Device::PiGlow
+UAV::Pilot::Wumpus::Server::Backend::RaspberryPiI2C
+RPi::DHT11 RPi::HCSR04
+App::RPi::EnvUI
+RPi::DigiPot::MCP4XXXX
+RPi::ADC::ADS
+Device::PaPiRus
+Device::BCM2835::Timer
+RPi::ADC::MCP3008
+RPi::BMP180
+RPi::DAC::MCP4922
+RPi::DHT11
+RPi::DigiPot::MCP4XXXX
+RPi::HCSR04
+RPi::LCD
+RPi::OLED::SSD1306::128_64
+RPi::Pin
+RPi::SPI
+RPi::StepperMotor
