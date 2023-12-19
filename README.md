@@ -3,17 +3,15 @@ Scripts and Instructions to Set-Up a Raspberry Pi
 
 
 Below are some notes/stream-of-consciousness for the set up.
+
+cpan install App::cpanminus
+
 cat pi4pkgs | xargs sudo apt install -y
 
 
 sudo apt update
 sudo apt full-upgrade
 sudo apt --fix-broken install
-
-
-
-sudo cpan install App::cpanminus
-
 
 cat pi4perlmodules | xargs cpanm
 
