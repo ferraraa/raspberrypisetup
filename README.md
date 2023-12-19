@@ -6,14 +6,14 @@ Below are some notes/stream-of-consciousness for the set up.
 
 cpan install App::cpanminus
 
-cat pi4pkgs | xargs sudo apt install -y
+cat aptpkgs_pi4setup | xargs sudo apt install -y
 
 
 sudo apt update
 sudo apt full-upgrade
 sudo apt --fix-broken install
 
-cat pi4perlmodules | xargs cpanm
+cat cpanmodules_pi4setup | xargs cpanm
 
 ExtUtils::PkgConfig
 Log::Log4perl
