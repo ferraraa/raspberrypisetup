@@ -3,3 +3,12 @@ Log::Log4perl
 Data::Dumper
 RPi::PIGPIO
 System::Info
+CGI
+CGI::HTML::Functions
+CGI::Easy::SendFile
+File::Temp
+File::Basename
+CGI::HTML::Functions
+Storable
+File::Find::Rule
+Class::Struct
