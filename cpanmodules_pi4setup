@@ -12,3 +12,4 @@ CGI::HTML::Functions
 Storable
 File::Find::Rule
 Class::Struct
+Bit::Vector
