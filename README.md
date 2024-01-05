@@ -12,8 +12,14 @@ cat aptpkgs_pi4setup | xargs sudo apt install -y
 sudo apt update
 sudo apt full-upgrade
 sudo apt --fix-broken install
+sudo service apache2 restart
+
+https://shiroku.net/robotics/run-cgi-program-on-raspberry-pi-as-web-server/
 
 cat cpanmodules_pi4setup | xargs cpanm
+#cat cpanmodules_pi4setup | xargs sudo cpanm
+
+
 
 add CPATH="/usr/include/tirpc${CPATH:+:${CPATH}}"; export CPATH; to bashrc
 

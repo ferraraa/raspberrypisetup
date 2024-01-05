@@ -13,3 +13,6 @@ Storable
 File::Find::Rule
 Class::Struct
 Bit::Vector
+Perl::Tidy
+Code::TidyAll
+CGI::Easy::SendFile
