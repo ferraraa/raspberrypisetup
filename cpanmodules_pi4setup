@@ -16,3 +16,4 @@ Bit::Vector
 Perl::Tidy
 Code::TidyAll
 CGI::Easy::SendFile
+Moose
