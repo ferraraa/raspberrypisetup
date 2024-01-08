@@ -15,7 +15,7 @@ sudo apt --fix-broken install
 sudo service apache2 restart
 
 https://shiroku.net/robotics/run-cgi-program-on-raspberry-pi-as-web-server/
-
+change the APACHE_RUN_USER and GROUP to MOAB from www-data. THis is in /etc/apache2/envars
 cat cpanmodules_pi4setup | xargs cpanm
 #cat cpanmodules_pi4setup | xargs sudo cpanm
 
