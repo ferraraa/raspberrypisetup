@@ -17,3 +17,10 @@ Perl::Tidy
 Code::TidyAll
 CGI::Easy::SendFile
 Moose
+namespace::autoclean
+MooseX::MakeImmutable
+Time::Out
+Net::Telnet
+Throwable
+MooseX::Log::Log4perl
+File::Slurp
