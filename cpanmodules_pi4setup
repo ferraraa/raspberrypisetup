@@ -24,3 +24,4 @@ Net::Telnet
 Throwable
 MooseX::Log::Log4perl
 File::Slurp
+PDL::Core
