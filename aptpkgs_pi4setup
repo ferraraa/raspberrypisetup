@@ -1,3 +1,4 @@
+pkg-config
 libntirpc-dev
 smbclient
 gedit
@@ -18,3 +19,7 @@ php8.2-gd
 php8.2-zip
 vim
 emacs
+liblocal-lib-perl
+cpanminus
+build-essential
+libssl-dev

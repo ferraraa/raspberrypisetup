@@ -1,3 +1,4 @@
+PkgConfig
 ExtUtils::PkgConfig
 Log::Log4perl
 Data::Dumper
@@ -24,3 +25,5 @@ Net::Telnet
 Throwable
 MooseX::Log::Log4perl
 File::Slurp
+Chart::Plotly
+PDL::Math
