@@ -25,5 +25,6 @@ Net::Telnet
 Throwable
 MooseX::Log::Log4perl
 File::Slurp
+Net::SSLeay
 Chart::Plotly
 PDL::Math
